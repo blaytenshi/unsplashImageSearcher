@@ -1,2 +1,0 @@
-# unsplashImageSearcher
-Created with CodeSandbox
